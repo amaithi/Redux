@@ -1,0 +1,16 @@
+.view-customer-container{
+    width: 50%;
+    padding: 20px;
+    background-color: #eddea4;
+    .view-customer-col{
+
+    }
+    .view-customer-row{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-bottom: 1px solid gray;
+        padding-bottom: 5px;
+        padding-top: 5px;
+    }
+}
